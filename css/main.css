@@ -28,7 +28,7 @@ html {
 }
 
 .hand-minute {
-  animation: hand-rotate .5s linear infinite;
+  animation: handrotate .5s linear infinite;
 }
 @keyframes hand-rotate {
   0% {
